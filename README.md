@@ -1,10 +1,13 @@
-### Hi there 👋
+# Oh, no! Who could save me now?!
+
+[Choose me](https://joinmassive.com/team) to save the world against evil Advertising! **Join Massive!**
+
+|                            |                            |
+|----------------------------|----------------------------|
+| ![](massive-character.gif) |    ![](advertising.gif)    |
 
 <!--
-**brenobaptista/brenobaptista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
