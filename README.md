@@ -1,10 +1,8 @@
 # Oh, no! Who could save me now?!
 
-[Choose me](https://joinmassive.com/team) to save the world against evil Advertising! **Join Massive!**
+[Choose me](https://joinmassive.com/team) to save the world against evil advertising. **Join Massive!**
 
-|                            |                            |
-|----------------------------|----------------------------|
-| ![](massive-character.gif) |    ![](advertising.gif)    |
+![](massive-character.gif)
 
 <!--
 Here are some ideas to get you started:
