@@ -1,10 +1,10 @@
 # Oh, no! Who could save us now?! 😰💦
 
-> [Choose me](https://joinmassive.com/team) 🧙💥 to save the world against **evil advertising**. 👀
+[Choose me](https://joinmassive.com/team) 🧙💥 to save the world against **evil advertising**. 👀
 
-![](massive-character.gif)
+![My Character](massive-character.gif)
 
-# 📓 Latest blog posts
+# 📝 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Reusing Entities With CSS Custom Properties](https://brenobaptista.vercel.app/posts/reusing-entities-with-css-variables)
