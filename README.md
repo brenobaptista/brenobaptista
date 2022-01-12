@@ -7,6 +7,7 @@
 # 📝 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Structuring a Go Project](https://brenobaptista.vercel.app/posts/structuring-go-project)
 - [Simplifying Favicons for the Modern Web](https://brenobaptista.vercel.app/posts/understanding-favicons-for-the-modern-web)
 - [Best Development Tools for JavaScript Projects](https://brenobaptista.vercel.app/posts/best-development-tools-javascript-projects)
 - [Reusing Entities With CSS Custom Properties](https://brenobaptista.vercel.app/posts/reusing-entities-with-css-variables)
