@@ -5,6 +5,7 @@
 # 📝 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Marking Up Accessible SVGs](https://brenobaptista.vercel.app/posts/marking-up-accessible-svgs)
 - [Structuring a Go Project](https://brenobaptista.vercel.app/posts/structuring-go-project)
 - [Simplifying Favicons for the Modern Web](https://brenobaptista.vercel.app/posts/understanding-favicons-for-the-modern-web)
 - [Best Development Tools for JavaScript Projects](https://brenobaptista.vercel.app/posts/best-development-tools-javascript-projects)
