@@ -5,6 +5,8 @@
 # 📝 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Customizing a Terminal With Zsh](https://brenobaptista.vercel.app/posts/customizing-terminal-with-zsh)
+- [Trip to Florianópolis - Winter 2022](https://brenobaptista.vercel.app/posts/trip-florianopolis-winter-2022)
 - [Marking Up Accessible SVGs](https://brenobaptista.vercel.app/posts/marking-up-accessible-svgs)
 - [Structuring a Go Project](https://brenobaptista.vercel.app/posts/structuring-go-project)
 - [Simplifying Favicons for the Modern Web](https://brenobaptista.vercel.app/posts/understanding-favicons-for-the-modern-web)
@@ -19,5 +21,4 @@
 - [Creating Virtual Machines Using QEMU/KVM on Linux](https://brenobaptista.vercel.app/posts/creating-virtual-machines-using-qemu-kvm)
 - [Editing Images From the Terminal With ImageMagick](https://brenobaptista.vercel.app/posts/editing-images-from-terminal-with-imagemagick)
 - [Working With SVGs in React Using SVGR](https://brenobaptista.vercel.app/posts/working-with-svgs-in-react-using-svgr)
-- [Customizing a Terminal With Zsh](https://brenobaptista.vercel.app/posts/customizing-terminal-with-zsh)
 <!-- BLOG-POST-LIST:END -->
