@@ -5,6 +5,7 @@
 # 📝 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Detecting if Color is Light or Dark](https://brenobaptista.vercel.app/posts/detecting-if-color-is-light-or-dark)
 - [Customizing a Terminal With Zsh](https://brenobaptista.vercel.app/posts/customizing-terminal-with-zsh)
 - [Trip to Florianópolis - Winter 2022](https://brenobaptista.vercel.app/posts/trip-florianopolis-winter-2022)
 - [Marking Up Accessible SVGs](https://brenobaptista.vercel.app/posts/marking-up-accessible-svgs)
