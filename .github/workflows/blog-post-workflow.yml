@@ -11,5 +11,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://brenobaptista.vercel.app/rss.xml"
+          feed_list: "https://www.brenobaptista.com/rss.xml"
           max_post_count: 20
