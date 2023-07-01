@@ -5,6 +5,7 @@
 # 📝 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Improving Pop Shell and Workspaces](https://www.brenobaptista.com/posts/improving-pop-shell-workspaces)
 - [Trip to Curitiba - Winter 2023](https://www.brenobaptista.com/posts/trip-curitiba-winter-2023)
 - [Detecting if Color is Light or Dark](https://www.brenobaptista.com/posts/detecting-if-color-is-light-or-dark)
 - [Customizing a Terminal With Zsh](https://www.brenobaptista.com/posts/customizing-terminal-with-zsh)
