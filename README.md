@@ -5,6 +5,7 @@
 # 📝 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Model for Microservices-Oriented Email Service](https://www.brenobaptista.com/posts/model-for-microservices-oriented-email-service)
 - [Improving Pop Shell and Workspaces](https://www.brenobaptista.com/posts/improving-pop-shell-workspaces)
 - [Trip to Curitiba - Winter 2023](https://www.brenobaptista.com/posts/trip-curitiba-winter-2023)
 - [Detecting if Color is Light or Dark](https://www.brenobaptista.com/posts/detecting-if-color-is-light-or-dark)
