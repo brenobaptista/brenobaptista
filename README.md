@@ -5,6 +5,8 @@
 # 📝 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Battery Charging Threshold for Acer laptops on Linux](https://www.brenobaptista.com/posts/battery-charging-threshold-acer-linux)
+- [OAuth2 refresh token grant in Apollo Client](https://www.brenobaptista.com/posts/oauth2-refresh-token-grant-in-apollo-client)
 - [Model for Microservices-Oriented Email Service](https://www.brenobaptista.com/posts/model-for-microservices-oriented-email-service)
 - [Improving Pop Shell and Workspaces](https://www.brenobaptista.com/posts/improving-pop-shell-workspaces)
 - [Trip to Curitiba - Winter 2023](https://www.brenobaptista.com/posts/trip-curitiba-winter-2023)
