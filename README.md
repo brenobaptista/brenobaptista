@@ -5,6 +5,7 @@
 # 📝 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rescuing Unresponsive GUI on Linux](https://www.brenobaptista.com/posts/rescuing-unresponsive-gui-on-linux)
 - [Battery Charging Threshold for Acer laptops on Linux](https://www.brenobaptista.com/posts/battery-charging-threshold-acer-linux)
 - [OAuth2 refresh token grant in Apollo Client](https://www.brenobaptista.com/posts/oauth2-refresh-token-grant-in-apollo-client)
 - [Model for Microservices-Oriented Email Service](https://www.brenobaptista.com/posts/model-for-microservices-oriented-email-service)
