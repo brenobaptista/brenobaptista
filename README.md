@@ -5,6 +5,7 @@
 # 📝 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Hidden Ways to Create Instant Gmail Aliases](https://www.brenobaptista.com/posts/3-hidden-ways-to-create-instant-gmail-aliases)
 - [Rescuing Unresponsive GUI on Linux](https://www.brenobaptista.com/posts/rescuing-unresponsive-gui-on-linux)
 - [Battery Charging Threshold for Acer laptops on Linux](https://www.brenobaptista.com/posts/battery-charging-threshold-acer-linux)
 - [OAuth2 refresh token grant in Apollo Client](https://www.brenobaptista.com/posts/oauth2-refresh-token-grant-in-apollo-client)
