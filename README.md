@@ -5,6 +5,9 @@
 # 📝 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fixing Headset Microphone not Working on Linux](https://www.brenobaptista.com/posts/fixing-headset-microphone-not-working-linux)
+- [Improve Font Rendering on Linux](https://www.brenobaptista.com/posts/improving-font-rendering-linux)
+- [Fixing Blurry Images in &quot;next/image&quot;](https://www.brenobaptista.com/posts/fixing-blurry-images-next)
 - [3 Hidden Ways to Create Instant Gmail Aliases](https://www.brenobaptista.com/posts/3-hidden-ways-to-create-instant-gmail-aliases)
 - [Rescuing Unresponsive GUI on Linux](https://www.brenobaptista.com/posts/rescuing-unresponsive-gui-on-linux)
 - [Battery Charging Threshold for Acer laptops on Linux](https://www.brenobaptista.com/posts/battery-charging-threshold-acer-linux)
