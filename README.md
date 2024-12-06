@@ -5,6 +5,7 @@
 # 📝 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating Virtual Machines Using QEMU/KVM on Linux](https://www.brenobaptista.com/posts/creating-virtual-machines-using-qemu-kvm)
 - [Fixing Headset Microphone not Working on Linux](https://www.brenobaptista.com/posts/fixing-headset-microphone-not-working-linux)
 - [Improve Font Rendering on Linux](https://www.brenobaptista.com/posts/improving-font-rendering-linux)
 - [Fixing Blurry Images in &quot;next/image&quot;](https://www.brenobaptista.com/posts/fixing-blurry-images-next)
@@ -30,7 +31,6 @@
 - [Shell Scripting Using Sed](https://www.brenobaptista.com/posts/shell-scripting-using-sed)
 - [Adding RSS Feed to a Static Next.js Blog](https://www.brenobaptista.com/posts/adding-rss-feed-to-static-next-blog)
 - [Generating a Dynamic Sitemap in Next.js](https://www.brenobaptista.com/posts/generating-sitemap-robots-in-next)
-- [Creating Virtual Machines Using QEMU/KVM on Linux](https://www.brenobaptista.com/posts/creating-virtual-machines-using-qemu-kvm)
 - [Editing Images From the Terminal With ImageMagick](https://www.brenobaptista.com/posts/editing-images-from-terminal-with-imagemagick)
 - [Working With SVGs in React Using SVGR](https://www.brenobaptista.com/posts/working-with-svgs-in-react-using-svgr)
 <!-- BLOG-POST-LIST:END -->
