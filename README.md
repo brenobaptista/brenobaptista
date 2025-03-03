@@ -5,6 +5,7 @@
 # 📝 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating AppImages with appimaged](https://www.brenobaptista.com/posts/integrating-appimages-with-appimaged)
 - [Creating Virtual Machines Using QEMU/KVM on Linux](https://www.brenobaptista.com/posts/creating-virtual-machines-using-qemu-kvm)
 - [Fixing Headset Microphone not Working on Linux](https://www.brenobaptista.com/posts/fixing-headset-microphone-not-working-linux)
 - [Improve Font Rendering on Linux](https://www.brenobaptista.com/posts/improving-font-rendering-linux)
