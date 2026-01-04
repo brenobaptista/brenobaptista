@@ -5,6 +5,8 @@
 # 📝 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ACID, Saga and Transactional Outbox](https://www.brenobaptista.com/posts/acid-saga-transactional-outbox)
+- [Battery Charging Threshold for Acer laptops on Linux](https://www.brenobaptista.com/posts/battery-charging-threshold-acer-linux)
 - [Discussing Audio Gear for Remote Work](https://www.brenobaptista.com/posts/discussing-audio-gear-remote-work)
 - [Recommended Logitech Bluetooth Setup on Linux](https://www.brenobaptista.com/posts/recommended-logitech-bluetooth-setup-linux)
 - [Integrating AppImages with appimaged](https://www.brenobaptista.com/posts/integrating-appimages-with-appimaged)
@@ -15,9 +17,8 @@
 - [Tips for Lenovo Laptops With Linux](https://www.brenobaptista.com/posts/tips-lenovo-laptops-linux)
 - [3 Hidden Ways to Create Instant Gmail Aliases](https://www.brenobaptista.com/posts/3-hidden-ways-to-create-instant-gmail-aliases)
 - [Rescuing Unresponsive GUI on Linux](https://www.brenobaptista.com/posts/rescuing-unresponsive-gui-on-linux)
-- [Battery Charging Threshold for Acer laptops on Linux](https://www.brenobaptista.com/posts/battery-charging-threshold-acer-linux)
 - [OAuth2 refresh token grant in Apollo Client](https://www.brenobaptista.com/posts/oauth2-refresh-token-grant-in-apollo-client)
-- [Model for Microservices-Oriented Email Service](https://www.brenobaptista.com/posts/model-for-microservices-oriented-email-service)
+- [Model for Microservices-Oriented Email Service](https://www.brenobaptista.com/posts/microservice-email)
 - [Improving Pop Shell and Workspaces](https://www.brenobaptista.com/posts/improving-pop-shell-workspaces)
 - [Trip to Curitiba - Winter 2023](https://www.brenobaptista.com/posts/trip-curitiba-winter-2023)
 - [Detecting if Color is Light or Dark](https://www.brenobaptista.com/posts/detecting-if-color-is-light-or-dark)
