@@ -1,8 +1,8 @@
-# 👋 Hello there
+# 👋 Hey
 
 ![My Character](massive-character.gif)
 
-# 📝 Blog posts
+# 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Upstreaming a Linux Kernel Patch to Fix My Headset Mic](https://www.brenobaptista.com/posts/upstreaming-linux-kernel-patch-fix-headset-mic)
